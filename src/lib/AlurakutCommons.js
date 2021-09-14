@@ -166,7 +166,6 @@ AlurakutMenu.Logo = styled.img`
   border-radius: 1000px;
   height: 34px;
 `;
-
 function AlurakutMenuProfileSidebar({ githubUser }) {
   return (
     <div className="alurakutMenuProfileSidebar">
